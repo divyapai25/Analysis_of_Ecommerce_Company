@@ -1,4 +1,4 @@
-# Analysis_of_Ecommerce_Company
+# Analysis-of-Ecommerce-Company
 
 Ecommerce Clothing Market is very big and at the same time, emerging. Nowadays, people prefer online shopping rather than visiting the stores. We analyzed the Google Merchandise Store data for our project. For our analysis, we have considered Quarter 1 of year 2019. First, we identified the key business objectives of Hollister - an Ohio based clothing company and the success metrics that affect these objectives.
 
